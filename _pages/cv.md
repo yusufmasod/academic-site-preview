@@ -1,64 +1,38 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "Curriculum Vitae"
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+## Muhammad Yusuf Bin Masod
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+**Senior Lecturer in Printing Technology**  
+Faculty of Art & Design  
+Universiti Teknologi MARA (UiTM), Cawangan Selangor  
+Kampus Puncak Alam, Malaysia
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+[Download my complete CV (PDF)](https://yusufmasod.github.io/Muhammad_Yusuf_Bin_Masod_CV.pdf)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Academic focus
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- Printing technology and production systems
+- Digital prepress workflows and PDF standards
+- Print quality evaluation and process control
+- Artificial intelligence adoption in printing and manufacturing
+- Malaysian printing-industry development
+- Printing education and workforce development
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Professional affiliation
+
+**Ghent Workgroup (GWG)** — supporting standards and best practices for graphic-arts workflows.
+
+## Selected teaching areas
+
+- Printing Process Control
+- Digital & Variable Data Printing
+- Laboratory-based measurement and quality evaluation
+- Internship coordination and industrial-placement support
+
+For complete details of qualifications, publications, professional activities, awards, and experience, please download the PDF version above.
