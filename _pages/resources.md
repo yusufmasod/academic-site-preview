@@ -10,7 +10,7 @@ This page brings together data, directories, teaching materials, and professiona
 
 A data-based monitor tracking sales, employment, wages, and productivity in Malaysia’s printing industry from 2019 to 2025.
 
-[View the industry monitor](https://yusufmasod.github.io/monitor.html)
+[View the printing firms directory]({{ site.baseurl }}/printing-directory/)
 
 ## Malaysia Printing Firms Directory
 
@@ -28,7 +28,7 @@ Practical learning materials supporting measurement and process-control activiti
 
 A record of professional certifications and continuing professional development.
 
-[View professional certifications](https://yusufmasod.github.io/certifications)
+[View professional certifications]({{ site.baseurl }}/certifications/)
 
 ## Academic profiles
 
