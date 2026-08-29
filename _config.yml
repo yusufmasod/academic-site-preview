@@ -29,7 +29,7 @@ author:
   bio              : "Senior Lecturer in Printing Technology at Universiti Teknologi MARA (UiTM)"
   location         : "Puncak Alam, Selangor, Malaysia"
   employer         : "Universiti Teknologi MARA (UiTM)"
-  uri              : "https://expert.uitm.edu.my/expert/yusuf595"
+  UiTM             : "https://expert.uitm.edu.my/expert/yusuf595"
   email            : "yusuf595@uitm.edu.my" 
 
   # Academic websites
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5843-3736"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Muhammad-Yusuf-Masod?ev=hdr_xprf"
   scopus           : # URL
   zotero           : # URL
