@@ -31,13 +31,13 @@ A data-based resource tracking sales, employment, and wages in Malaysia’s prin
 
 Structured worksheets supporting Solid Ink Density (SID), Tone Value Increase (TVI), measurement interpretation, and laboratory-based learning in offset printing.
 
-[View teaching and supervision](https://yusufmasod.github.io/teaching)
+[View teaching and supervision]({{ site.baseurl }}/teaching/)
 
 ### Artificial intelligence adoption in printing
 
 Research examining industrial AI applications and the financial, technical, and organisational challenges influencing adoption.
 
-[View my research](https://yusufmasod.github.io/research)
+[View teaching and supervision]({{ site.baseurl }}/teaching/)
 
 ## Selected publications
 
