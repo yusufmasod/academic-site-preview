@@ -113,7 +113,7 @@ function looksLikeAddress(s) {
 
 $(document).ready(function () {
 
-  Papa.parse("printing_press_License%20directory.csv", {
+  Papa.parse("{{ site.baseurl }}/printing_press_License%20directory.csv", {
     download: true,
     header: true,
     skipEmptyLines: true,
