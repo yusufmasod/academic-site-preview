@@ -25,7 +25,7 @@ My work focuses on printing technology, print-production systems, digital prepre
 
 A data-based resource tracking sales, employment, and wages in Malaysia’s printing industry from 2019 to 2025.
 
-[View the industry monitor](https://yusufmasod.github.io/monitor.html)
+[View the industry monitor]({{ site.baseurl }}/monitor.html)
 
 ### Teaching tools for print process control
 
