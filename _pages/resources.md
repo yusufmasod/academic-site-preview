@@ -22,7 +22,9 @@ A reference directory supporting exploration of printing firms and industry orga
 
 Practical learning materials supporting measurement and process-control activities in offset-printing laboratories, including Solid Ink Density (SID) and Tone Value Increase (TVI).
 
-[View teaching tools]({{ site.baseurl }}/teaching/)
+[View teaching and supervision]({{ site.baseurl }}/teaching/)
+
+[Open the TVI Analysis Dashboard]({{ site.baseurl }}/tvi-dashboard.html)
 
 ## Professional certifications
 
