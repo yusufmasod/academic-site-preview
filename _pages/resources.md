@@ -10,13 +10,13 @@ This page brings together data, directories, teaching materials, and professiona
 
 A data-based monitor tracking sales, employment, wages, and productivity in Malaysia’s printing industry from 2019 to 2025.
 
-[View the printing firms directory]({{ site.baseurl }}/printing-directory/)
+[View the industry monitor]({{ site.baseurl }}/monitor.html)
 
 ## Malaysia Printing Firms Directory
 
 A reference directory supporting exploration of printing firms and industry organisations in Malaysia.
 
-[View the printing firms directory](https://yusufmasod.github.io/printing-directory)
+[View the printing firms directory]({{ site.baseurl }}/printing-directory/)
 
 ## Teaching tools
 
