@@ -26,6 +26,8 @@ Practical learning materials supporting measurement and process-control activiti
 
 [Open the TVI Analysis Dashboard]({{ site.baseurl }}/tvi-dashboard.html)
 
+[Open the SID Analysis Dashboard]({{ site.baseurl }}/sid-dashboard.html)
+
 ## Professional certifications
 
 A record of professional certifications and continuing professional development.
