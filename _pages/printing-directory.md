@@ -111,7 +111,7 @@ function looksLikeAddress(s) {
   return /\d/.test(t) && (t.includes(",") || t.includes("jalan") || t.includes("lorong") || t.includes("lot") || t.includes("taman"));
 }
 
-$(document).ready(function () {
+const directoryJQ = window.jQuery;  directoryJQ(function () {
 
   Papa.parse("{{ site.baseurl }}/printing_press_License%20directory.csv", {
     download: true,
@@ -151,11 +151,11 @@ $(document).ready(function () {
         ];
       });
 
-      if ($.fn.DataTable.isDataTable('#directory')) {
-        $('#directory').DataTable().clear().destroy();
+      if (directoryJQ.fn.DataTable.isDataTable('#directory')) {
+        directoryJQ('#directory').DataTable().clear().destroy();
       }
 
-      $('#directory').DataTable({
+      directoryJQ('#directory').DataTable({
         data: tableData,
         pageLength: 25,
         autoWidth: false,
