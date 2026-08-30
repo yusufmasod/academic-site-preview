@@ -132,7 +132,6 @@ $(document).ready(function () {
         let sector   = getVal(r, ["Printing Sector Category", "Sector", "Kategori", "KATEGORI"]);
         let core     = getVal(r, ["Core Activities", "Activities", "Aktiviti", "AKTIVITI"]);
 
-        // Fix for shifted extraction
         if (!district && address && !looksLikeAddress(address) && looksLikeAddress(contact)) {
           district = address;
           address = contact;
@@ -152,7 +151,6 @@ $(document).ready(function () {
         ];
       });
 
-      // Destroy existing table if the page reloads the script (prevents duplicates)
       if ($.fn.DataTable.isDataTable('#directory')) {
         $('#directory').DataTable().clear().destroy();
       }
@@ -163,7 +161,6 @@ $(document).ready(function () {
         autoWidth: false,
         deferRender: true,
 
-        // Enable column resizing
         colResize: {
           resizeTable: true
         }
