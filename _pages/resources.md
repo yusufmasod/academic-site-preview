@@ -28,6 +28,7 @@ Practical learning materials supporting measurement and process-control activiti
 
 [Open the SID Analysis Dashboard]({{ site.baseurl }}/sid-dashboard.html)
 
+[Open the CIELAB Colour Validation Dashboard]({{ site.baseurl }}/cielab-dashboard.html)
 ## Professional certifications
 
 A record of professional certifications and continuing professional development.
