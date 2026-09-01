@@ -24,6 +24,8 @@ Practical learning materials supporting measurement and process-control activiti
 
 [View teaching and supervision]({{ site.baseurl }}/teaching/)
 
+[Open the PrintQC Lab toolkit]({{ site.baseurl }}/printqc-lab/)
+
 [Open the TVI Analysis Dashboard]({{ site.baseurl }}/tvi-dashboard.html)
 
 [Open the SID Analysis Dashboard]({{ site.baseurl }}/sid-dashboard.html)
