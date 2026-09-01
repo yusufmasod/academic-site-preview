@@ -27,9 +27,11 @@ A data-based resource tracking sales, employment, and wages in Malaysia’s prin
 
 [View the industry monitor]({{ site.baseurl }}/monitor.html)
 
-### Teaching tools for print process control
+### PrintQC Lab: interactive print-quality learning
 
-Structured worksheets supporting Solid Ink Density (SID), Tone Value Increase (TVI), measurement interpretation, and laboratory-based learning in offset printing.
+An open learning toolkit supporting Solid Ink Density (SID), Tone Value Increase (TVI), CIELAB colour validation, dot uniformity, and laboratory scenario simulation.
+
+[Open the PrintQC Lab toolkit]({{ site.baseurl }}/printqc-lab/)
 
 [View teaching and supervision]({{ site.baseurl }}/teaching/)
 
