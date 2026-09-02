@@ -10,7 +10,7 @@ My professional service connects printing education, industry practice, workflow
 
 ### Ghent Workgroup (GWG)
 
-I am professionally affiliated with the Ghent Workgroup, an international organisation supporting standards and best practices for graphic-arts workflows. Universiti Teknologi MARA is listed as an Educational Member.
+Universiti Teknologi MARA (UiTM) is an Educational Member of the Ghent Workgroup (GWG), an international organisation supporting standards and best practices for graphic-arts workflows.
 
 [Visit the Ghent Workgroup](https://www.gwg.org/)
 
