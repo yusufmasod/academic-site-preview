@@ -58,6 +58,6 @@ An Approach to Quality-Managed Proofing.
 *IEEE Symposium on Computer Applications & Industrial Electronics.*  
 [View publication](https://doi.org/10.1109/ISCAIE57739.2023.10165452)
 
-## Professional affiliation
+## Institutional membership
 
-I am affiliated with the **Ghent Workgroup (GWG)**, an international organisation supporting standards and best practices for graphic-arts workflows.
+Universiti Teknologi MARA (UiTM) is an Educational Member of the **Ghent Workgroup (GWG)**, an international organisation supporting standards and best practices for graphic-arts workflows.
